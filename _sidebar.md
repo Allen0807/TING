@@ -1,2 +1,2 @@
 - [首頁](/TING/)
-- [網格設置](/TING/Meshtest)
+- [網格設置](/TING/Meshtest.md)
