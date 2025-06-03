@@ -1,2 +1,10 @@
-# TING
-Dynamic Behavior and Turbulent Transport Properties of Gravity Currents through Cluster-type Arrays: from Isolated to Periodic Configurations
+# 我的研究首頁
+
+歡迎來到我的研究介紹網站！
+
+## 研究主題
+- 重力流模擬
+- 湍流與障礙物互動
+- 使用 LES 方法計算
+
+你可以從側邊欄選擇更多內容。
