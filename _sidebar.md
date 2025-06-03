@@ -1,2 +1,2 @@
-- [首頁](README.md)
-- [關於本研究](about.md)
+- [首頁](/TING/)
+- [關於本研究](/TING/about)
