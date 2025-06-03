@@ -1,2 +1,2 @@
-- [首頁](/TING/)
-- [網格設置](/TING/Meshtest)
+- [首頁](README)
+- [網格設置](Meshtest)
