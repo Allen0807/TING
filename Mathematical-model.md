@@ -1,6 +1,6 @@
 # 數學模型
-- NS方程
-- 布式假設
-- LES紊流模式
+- Navier-Stokes equations
+- Boussinesq approximation
+- Large Eddy Simulation
 - 無因次統御方程
 
