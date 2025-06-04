@@ -2,7 +2,10 @@
 ## 模型幾何繪製
 
 ## 模型網格設置
+- 自動建立網格
+- 手動建立網格
 - 網格數及品質查看
+  
   Mesh->Statistics->Mesh Metric->Element Quality
 
 ## 模型運算設定
