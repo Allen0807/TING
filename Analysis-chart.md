@@ -3,7 +3,7 @@
 ## Affter Effects
 - 剪裁與輸出
   
-## Matlab
+## MATLAB
 - 計算Ansys輸出文字檔
 - GIG、AVI、JPG轉換
 
