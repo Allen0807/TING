@@ -35,5 +35,6 @@
 ## 紊流模式
 
 ## Endnote
-
+- 匯入已存在PDF
+  File-->Import-->File-->Choose-->PDF-->Import
 
