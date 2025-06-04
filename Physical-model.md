@@ -7,4 +7,4 @@
 
 ## 模型參數設置
 
-
+![參數設置](/docs/images/physical-parameter.jpg)
