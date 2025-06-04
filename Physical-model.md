@@ -7,4 +7,6 @@
 
 ## 模型參數設置
 
+![浸沒水深比](/docs/images/Z.jpg)
+
 ![參數設置](/docs/images/physical-parameter.jpg)
