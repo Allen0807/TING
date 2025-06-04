@@ -7,5 +7,6 @@
 - 網格數及品質查看
   
   Mesh->Statistics->Mesh Metric->Element Quality
+  1:代表網格形狀均勻
 
 ## 模型運算設定
