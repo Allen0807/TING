@@ -9,6 +9,6 @@
   
   Mesh→Statistics→Mesh Metri→Element Quality
 
-  1:代表網格形狀均勻
+ >1:代表網格形狀均勻
 
 ## 模型運算設定
