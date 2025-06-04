@@ -11,6 +11,13 @@
   
   Slice Material：將增建之模型截成數塊
 
+- 陣列功能(Create→Pattem)
+- Pattem Type
+
+  Linear：單方向陣列
+  
+  Rectangular：包含橫向及縱向陣列
+
 ## 模型網格設置
 ---
 - 自動建立網格
