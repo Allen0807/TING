@@ -16,8 +16,11 @@
 - 模擬
 
   E. Gonzalez-Juez, E. Meiburg, and G. Constantinescu, Gravity currents impinging on bottom-mounted square cylinders: flow fields and associated forces, Journal of Fluid Mechanics, 631, 65-102, 2009.
+
   C.-S. Wu and H.-T. Ouyang, Flow morphology in bottom-propagating gravity currents over immersed obstacles, AIP Advances, 10(11), 115103, 2020.
+
   J. Zhou, C. Cenedese, T. Williams, M. Ball, S. K. Venayagamoorthy, and R. I. Nokes, On the propagation of gravity currents over and through a submerged array of circular cylinders, Journal of Fluid Mechanics, 831, 394-417, 2017.
+
   F. He, H. An, M. Ghisalberti, S. Draper, C. Ren, P. Branson, and L. Cheng, Obstacle arrangement can control flows through porous obstructions, Journal of Fluid Mechanics, 992, A3, 2024.
 
 ## 混合率
