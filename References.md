@@ -31,7 +31,7 @@
 - 量化方式
 
   A. T. Fragoso, M. D. Patterson, and J. S. Wettlaufer, Mixing in gravity currents, Journal of Fluid Mechanics, 734, R2, 2013.
-  
+
 ## 紊流模式
 
 ## Endnote
