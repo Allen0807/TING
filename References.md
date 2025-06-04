@@ -36,5 +36,5 @@
 
 ## Endnote
 - 匯入已存在PDF
-  File-->Import-->File-->Choose-->PDF-->Import
+  File→Import→File→Choose→PDF→Import
 
