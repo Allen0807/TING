@@ -4,3 +4,4 @@
 - [數學模型](Mathematical-model)
 - [數值模型](Numerical-model)
 - [參考文獻](References)
+- [分析資料處理](Analysis-chart)
