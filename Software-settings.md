@@ -4,8 +4,11 @@
 ---
 - 擠出功能(Extude)
 - Operation
+
   Add Material：增建模型
+  
   Cut Material：將增建出之模型減去
+  
   Slice Material：將增建之模型截成數塊
 
 ## 模型網格設置
