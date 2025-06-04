@@ -1,6 +1,6 @@
 # 數學模型
-- Navier-Stokes equations
-- Boussinesq approximation
-- Large Eddy Simulation
+- 三圍統御方程(Navier-Stokes equations)
+- 布式假設(Boussinesq approximation)
+- 大渦流紊流模擬(Large Eddy Simulation)
 - 無因次統御方程
 
