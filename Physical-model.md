@@ -15,4 +15,4 @@
 ## 物理模型參數表
 ---
 
-![參數設置](/docs/images/physical-parameter.jpg)
+![參數設置](/docs/images/physical-parameter-2.jpg)
