@@ -12,7 +12,8 @@
 |--------------|---------------|------|
 | 頭端速度分析  | Current_head.mlx | .dat |
 | 質量通量及動量通量 | Momentum and Mass flux.mlx | .dat |
-| HovmOller     | Hovmoller.mlx      | .dat |
+| HovmOller     | Hovmoller.mlx | .dat |
+| 動能及位能     | EUV.mlx | .dat |
 | AVI 轉 GIF| AVI TO  GIF.mlx | .gif |
 | IMAGE 轉 GIF| IMAGE TO  GIF.mlx | .gif |
 | 以色皆抓取頭端資料 | RGB | - |
