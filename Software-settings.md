@@ -18,10 +18,17 @@
   
   Rectangular：包含橫向及縱向陣列
 
+- 聯集面功能 (Share Topology)
+  將所有的Solid集合成一個Part，接著Generate成一個Share Topology，讓網格再同一面是一樣大的 (資料的傳遞較不易失真)
+
+
 ## 模型網格設置
 ---
 - 自動建立網格
 - 手動建立網格
+
+參考網址 (圓柱均勻網格建置)：https://www.youtube.com/watch?v=0tmMeSQTqRs
+
 - 網格數及品質查看
   
   Mesh→Statistics→Mesh Metri→Element Quality
@@ -42,7 +49,9 @@
 - 靜態Cs參數
 
   更改其中Cs值可以控制亞網格模型模擬到的網資料 (通常Cs=0.1~0.3)
+  
+>目前我們是用動態，但ANSYS版本無法直接輸出Cs值，靜態比較保險(需與老師討論)
 
 ![靜態Cs](/docs/images/Viscous-Model-Cs.jpg)
 
->目前我們是用動態，但ANSYS版本無法直接輸出Cs值，靜態比較保險(需與老師討論)
+
