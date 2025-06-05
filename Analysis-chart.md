@@ -11,8 +11,8 @@
 | 分析項目         | 檔名       | 輸出副檔名 |
 |--------------|---------------|------|
 | 頭端速度分析  | Current_head.mlx | .dat |
-| 質量通量及動量通量 | 0.3~1.2       | .dat |
-| HovmOller     | 0.5~2.0       | .dat |
+| 質量通量及動量通量 | Momentum and Mass flux.mlx | .dat |
+| HovmOller     | Hovmoller.mlx      | .dat |
 | AVI 轉 GIF| AVI TO  GIF.mlx | .gif |
 
 - GIG、AVI、JPG轉換
