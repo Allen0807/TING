@@ -1,0 +1,7 @@
+@import url('https://cdn.jsdelivr.net/npm/docsify/themes/dark.css');
+
+/* 🔽 移除表格的交錯列底色 */
+table tr:nth-child(even),
+table tr {
+  background-color: transparent !important;
+}
