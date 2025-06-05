@@ -30,7 +30,17 @@
 
 ## 模型運算設定
 ---
-- 紊流模式設定
+### 紊流模式設定
+- 混合模式設定
+
+![動態Cs](/docs/images/Mulyiphase-Model.jpg)
+
 - 動態Cs參數
+
+![動態Cs](/docs/images/Viscous-Model.jpg)
+
 - 靜態Cs參數
+
+![靜態Cs](/docs/images/Viscous-Model-Cs.jpg)
+
 >目前我們是用動態，但ANSYS版本無法直接輸出Cs值，靜態比較保險(需與老師討論)
