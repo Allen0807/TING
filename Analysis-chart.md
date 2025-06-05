@@ -70,39 +70,39 @@
 
   Reverse：反轉Color bar (例如：紅+藍- → 紅-藍+)
 
-- 面(Shade)
+#### 面(Shade)
   
   將網格設定時所取名的面顯示出來
    
-- 向量(Vector)
+#### 向量(Vector)
   
   呈現出向量符號
   
-- 邊(Edge)
+#### 邊(Edge)
   
   繪製截面時義於呈現
   
-- 資料點(Scatter)
+#### 資料點(Scatter)
   
   再資料較少時可顯示出來
   
-- Zone Style(常用)
+#### Zone Style(常用)
   
   調整各個前述功能於面上的呈現
   
-- 等值表面(Iso-surfaces)
+#### 等值表面(Iso-surfaces)
   
   繪製流體等值面
   
-- 切頁(Slices)
+#### 切頁(Slices)
   
   單時刻切頁
   全時刻切頁
   
-- 打光(Lighting)
+#### 打光(Lighting)
   
   可調整打光方位(通常適用於3D成現，2D會關掉)
   
-- 透明度(Translucency)
+#### 透明度(Translucency)
   
   調整個面上的透明條件
