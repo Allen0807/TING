@@ -59,6 +59,16 @@
 
 ![顏色連續](/docs/images/Color-map-Continuous.jpg)
 
+- Color cutoff
+
+  Cut above：刪除設定值以上的數值
+  
+  Cut bolow：刪除設定值以下的數值
+
+- Color map adjustments
+
+  Reverse：反轉Color bar (例如：紅+藍- → 紅-藍+)
+
 - 面(Shade)
   
   將網格設定時所取名的面顯示出來
