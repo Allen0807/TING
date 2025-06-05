@@ -38,8 +38,26 @@
 ![顏色調整](/docs/images/Color-map.jpg)
 
 - 儲存及匯入Color bar
+  Rename：重新命名
+  Delete：刪除
+  Import：匯入
+  Export：匯出
 
 ![顏色儲存](/docs/images/color-map-save.jpg)
+
+- Color map distribution method
+
+  Banded：採用上面Contour levels的數值進行等值線的分布並上色
+  
+  Continuous：設定最大及最小值以差分變得連續
+  
+  Reset to contour variable min/max：以輸入資料之最大及最小值設定數值
+  
+  Reset to contour level min/max：以Set Levels設定的最大及最小值設定數值
+  
+>通常以Reset to contour level min/max才能讓圖上的顏色跟Color bar對應。
+
+![顏色連續](/docs/images/Color-map-Continuous.jpg)
 
 - 面(Shade)
   
