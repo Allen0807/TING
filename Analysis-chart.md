@@ -25,9 +25,9 @@
   
 - 配合Zone Style可勾選欲呈現之網格設置，並調整線粗及顏色。
 
-![網格功能](/docs/images/Mesh.jpg)
+> 目前用於論文中網格配置示意圖呈現。
 
->目前用於論文中網格配置示意圖呈現。
+![網格功能](/docs/images/Mesh.jpg)
 
 #### 顏色及資料(Contour)(常用)
 ##### 資料與顏色設置 (Level and Color)  
