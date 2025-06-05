@@ -2,27 +2,27 @@
 
 /* === 字體樣式：標題逐級變小，段落最小 === */
 h1 {
-  font-size: 2.2em;
+  font-size: 1em;
   font-weight: 700;
   margin-bottom: 0.6em;
 }
 h2 {
-  font-size: 1.8em;
+  font-size: 1em;
   font-weight: 650;
   margin-bottom: 0.55em;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1em;
   font-weight: 600;
   margin-bottom: 0.5em;
 }
 h4 {
-  font-size: 1.3em;
+  font-size: 1em;
   font-weight: 600;
   margin-bottom: 0.45em;
 }
 h5 {
-  font-size: 1.15em;
+  font-size: 1em;
   font-weight: 600;
   margin-bottom: 0.4em;
 }
