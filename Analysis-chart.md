@@ -13,17 +13,38 @@
 ---
 ### 匯入圖檔
 ### 3D功能列
-- 網格(Mesh)
+#### 網格(Mesh)
   
-  配合Zone Style可勾選欲呈現之網格設置，並調整線粗及顏色。
+- 配合Zone Style可勾選欲呈現之網格設置，並調整線粗及顏色。
 
 ![網格功能](/docs/images/Mesh.jpg)
 
 >目前用於論文中網格配置示意圖呈現。
 
-- 顏色及資料(Contour)(常用)
+#### 顏色及資料(Contour)(常用)
+##### 資料與顏色設置 (Level and Color)  
+- 選取與繪製資料 (速度場、密度場...)
+
+![資料選取](/docs/images/Data.jpg)
+
+- 調整Color bar劃分 (Contour levels→Set levels)
+
+![劃分](/docs/images/Set-levels.jpg)
+
+  調整Minimum level (最小值)、Maximul (最大值)以及Number of levels (將最大及最小值內切成幾格)
+
   
-  選取要呈現的資料，並調整成線之Color bar
+
+- 調整Color bar顏色 (常用Small Rainbow、Diverging-Blue/Red、Two Color)
+
+![顏色調整](/docs/images/Color-map.jpg)
+
+- 儲存及匯入Color bar
+
+![顏色儲存](/docs/images/color-map-save.jpg)
+
+
+  
   
 - 面(Shade)
   
