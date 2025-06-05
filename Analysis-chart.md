@@ -7,6 +7,7 @@
 ## Matlab
 ---
 - 計算Ansys輸出文字檔
+- 確認各資料欄位對應正確
 
 | 分析項目         | 檔名       | 輸出副檔名 |
 |--------------|---------------|------|
@@ -14,6 +15,9 @@
 | 質量通量及動量通量 | Momentum and Mass flux.mlx | .dat |
 | HovmOller     | Hovmoller.mlx | .dat |
 | 動能及位能     | EUV.mlx | .dat |
+| 時均TKE解析 | TKE.mlx | .dat |
+| 空間平均TKE解析 (俯視圖) | TKEtop.mlx | .dat |
+| 空間平均TKE解析 (側視圖) | TKEside.mlx | .dat |
 | AVI 轉 GIF| AVI TO  GIF.mlx | .gif |
 | IMAGE 轉 GIF| IMAGE TO  GIF.mlx | .gif |
 | 以色皆抓取頭端資料 | RGB | - |
