@@ -1,5 +1,7 @@
 # 重要參考文獻
+---
 ## 平滑體床異重流
+---
 - 異重流3運動項
 
   H. E. Huppert and J. E. Simpson, The slumping of gravity currents, Journal of Fluid Mechanics, 99(4), 785-799, 1980.
@@ -9,6 +11,7 @@
   J. O. Shin, S. B. Dalziel, and P. F. Linden, Gravity currents produced by lock exchange, Journal of Fluid Mechanics, 521, 1-34, 2004.
 
 ## 粗糙底床異重流
+---
 - 實驗
 
   C. Cenedese, R. Nokes, and J. Hyatt, Lock-exchange gravity currents over rough bottoms, Environmental Fluid Mechanics, 18(1), 59-73, 2016.(重要)
@@ -24,6 +27,7 @@
   F. He, H. An, M. Ghisalberti, S. Draper, C. Ren, P. Branson, and L. Cheng, Obstacle arrangement can control flows through porous obstructions, Journal of Fluid Mechanics, 992, A3, 2024.(重要)
 
 ## 混合率
+---
 - 背景位能
 
   K. B. Winters, P. N. Lombard, J. J. Riley, and E. A. D'Asaro, Available potential energy and mixing in density-stratified fluids, Journal of Fluid Mechanics, 289, 115-128, 1995.
@@ -33,8 +37,9 @@
   A. T. Fragoso, M. D. Patterson, and J. S. Wettlaufer, Mixing in gravity currents, Journal of Fluid Mechanics, 734, R2, 2013.
 
 ## 紊流模式
-
+---
 ## Endnote
+---
 - 匯入已存在PDF
   File→Import→File→Choose→PDF→Import
 
