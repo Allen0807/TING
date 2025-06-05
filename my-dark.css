@@ -9,3 +9,31 @@ table tr {
 body {
   font-size: 1.2em;
 }
+
+/* === 表格樣式：取消 hover 反白 === */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table tr:hover {
+  background-color: transparent !important; /* ❌取消反白 */
+}
+
+table th, table td {
+  padding: 10px;
+  border: 1px solid #444;
+}
+
+/* 表格標頭 */
+table th {
+  background-color: #2c2c2c;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* 表格內容列 */
+table td {
+  background-color: #1f1f1f;
+  color: #cccccc;
+}
