@@ -33,7 +33,8 @@
 
 ![劃分](/docs/images/Set-levels.jpg)
 
-- 調整Color bar顏色 (常用Small Rainbow、Diverging-Blue/Red、Two Color)
+- 調整Color bar顏色
+>常用Small Rainbow、Diverging-Blue/Red、Two Color
 
 ![顏色調整](/docs/images/Color-map.jpg)
 
