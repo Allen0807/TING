@@ -2,7 +2,7 @@
 ---
 ## 模型幾何繪製
 ---
-- 擠出功能(Extude)
+- 擠出功能 (Extude)
 - Operation
 
   Add Material：增建模型
@@ -11,7 +11,7 @@
   
   Slice Material：將增建之模型截成數塊
 
-- 陣列功能(Create→Pattem)
+- 陣列功能 (Create→Pattem)
 - Pattem Type
 
   Linear：單方向陣列
@@ -30,7 +30,7 @@
 
 ## 模型運算設定
 ---
-### 紊流模式設定
+### 紊流模式設定 (Models)
 - 混合模式設定
 
 ![動態Cs](/docs/images/Mulyiphase-Model.jpg)
@@ -41,7 +41,7 @@
 
 - 靜態Cs參數
 
-  更改其中Cs值可以控制亞網格模型模擬到的網資料(通常Cs=0.1~0.3)
+  更改其中Cs值可以控制亞網格模型模擬到的網資料 (通常Cs=0.1~0.3)
 
 ![靜態Cs](/docs/images/Viscous-Model-Cs.jpg)
 
