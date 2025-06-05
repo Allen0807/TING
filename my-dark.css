@@ -5,3 +5,7 @@ table tr:nth-child(even),
 table tr {
   background-color: transparent !important;
 }
+/* 🔼 全站字體放大 2% */
+body {
+  font-size: 1.05em;
+}
