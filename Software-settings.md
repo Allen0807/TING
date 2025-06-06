@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39538086-9fd0-4be3-a28d-a03a6a0cb00a)# ANSYS Fluent 17.2
+# ANSYS Fluent 17.2
 ---
 ## 模型幾何繪製
 ---
