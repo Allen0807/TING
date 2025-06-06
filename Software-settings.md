@@ -101,6 +101,28 @@
   Frequency (Time Step)：50 (通常乘上Time Step為0.1s)
   
   Quantities：
+
+| 輸出資料 | 英文名稱|
+|--------------|---------------|
+| 靜壓 | static-pressure |
+| 動壓 | dynamic-pressure |
+| 總壓 | total-pressure |
+| 密度 | density |
+| X速度 | x-velocity |
+| Y速度 | y-velocity |
+| Z速度 | z-velocity |
+| 總能量 | total-energy |
+| 內能| internal-energy |
+| X擾動速度 | rmse-x-velocity |
+| Y擾動速度 | rmse-y-velocity |
+| Z擾動速度 | rmse-z-velocity |
+| 雷諾應力UV | resolved-uv-stress |
+| 雷諾應力UW | resolved-uw-stress |
+| 雷諾應力VW | resolved-vw-stress |
+| 濾波長度 | sgs-filter-length |
+| 亞網格動力黏滯係數 | sgs-dynamic-visc-const |
+| 網格體積 | cell-volume |
+| 剪應變率 | strain-rate-mag |
   
 
 
