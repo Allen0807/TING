@@ -136,4 +136,4 @@
 
 2-25. 匯出檔案，Region必須選擇All frames才能匯出兩個frame，寬度方面可以盡量大一點提高解析度，Antialiasing用途為減少畫面的鋸齒可自行調整(2-16)，Encoding為畫面的編碼的方法選擇標準即可，最後品質一定是開到最高
 
-![顯示畫面](/docs/images/2-21.匯出檔案.png)
+![顯示畫面](/docs/images/2-21-1.匯出檔案.png)
