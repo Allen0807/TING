@@ -172,6 +172,32 @@
 
 ![顯示畫面](/docs/images/4-1.在排樁上游處切頁.png)
 
-4-1. 利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示)
+4-2. 利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示)
 
-![顯示畫面](/docs/images/4-1-1.利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示).png)
+![顯示畫面](/docs/images/4-1-1.png)
+
+4-3. 在排樁下游處切頁
+
+![顯示畫面](/docs/images/4-2.在排樁下游處切頁.png)
+
+4-4. 利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示)
+
+![顯示畫面](/docs/images/4-1-1.png)
+
+4-5. 開啟所有的面
+
+![顯示畫面](/docs/images/4-3.開啟所有的面.png)
+
+4-6. 設定shade
+
+![顯示畫面](/docs/images/4-4.設定shade.png)
+
+4-7. 右鍵點選Edge Color可選擇邊界線條的顏色
+
+![顯示畫面](/docs/images/4-5.右鍵點選Edge Color可選擇邊界線條的顏色.png)
+
+4-8. 同樣可調整面的透明度
+
+![顯示畫面](/docs/images/4-6.同樣可調整面的透明度.png)
+
+4-9. 儲存frame以利後續使用，最後進行匯出的動作
