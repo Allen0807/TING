@@ -168,4 +168,10 @@
 
 - 重複「3.三維圖及俯視圖(Iso Surface)」的步驟，或者是直接匯入3-16所儲存的frame
 
-4-1. 
+4-1. 在排樁上游處切頁
+
+![顯示畫面](/docs/images/4-1.在排樁上游處切頁.png)
+
+4-1. 利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示)
+
+![顯示畫面](/docs/images/4-1-1.利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示).png)
