@@ -107,3 +107,15 @@
 2-18. 可在此頁面中進行調整
 
 ![顯示畫面](/docs/images/2-16.可在此頁面中進行調整.png)
+
+2-19. 調整colorbar
+
+![顯示畫面](/docs/images/2-16-1.調整colorbar.png)
+
+2-20. 可調整colorbar的字體和位置等等
+
+![顯示畫面](/docs/images/2-16-2.可調整colorbar的字體和位置等等.png)
+
+2-21. 同樣可以藉由Save跟Load的功能節省繪圖時間(如果你在TecPlot中進行了額外的操作，如切頁跟無因次化，就必須先完成後才能匯入同樣的frame)
+
+![顯示畫面](/docs/images/2-16-2.可調整colorbar的字體和位置等等.png)
