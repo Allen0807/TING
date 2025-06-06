@@ -40,9 +40,9 @@
 
 ![顯示畫面](/docs/images/8.定義密度門檻值(需與4相同).png)
 
-11. 在contour欄位中只選擇側牆與障礙物的面(這裡的面是在Fluent中Mesh設定)
+11. 在contour欄位中只選擇側牆與障礙物的面並關閉障礙物的Contour(這裡的面是在Fluent中的Mesh設定)
 
-![顯示畫面](/docs/images/11.在contour欄位中只選擇側牆與障礙物的面(這裡的面是在Fluent中的Mesh設定).png)
+![顯示畫面](/docs/images/11.在contour欄位中只選擇側牆與障礙物的面並關閉障礙物的Contour(這裡的面是在Fluent中的Mesh設定).png)
 
 12. 在Shade中將側牆的Shade關閉只保留障礙物的部分，並可以用右鍵點選Shade Color選擇障礙物的顏色
 
