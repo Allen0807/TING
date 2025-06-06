@@ -71,6 +71,18 @@
 
 ![顯示畫面](/docs/images/2-7.選擇Y-Planes後調整切頁位置.png)
 
-2-9. 利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示)
+2-10. 利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示)
 
-![顯示畫面](/docs/images/2-8.利用Extract Slices Over Time 這個功能可以實際的切出一個獨立的面(會在Zone Style中顯示).png)
+![顯示畫面](/docs/images/2-8.png)
+
+2-11. 將圖案轉為2D的呈現方式
+
+![顯示畫面](/docs/images/2-9.將圖案轉為2D的呈現方式.png)
+
+2-12. 輸入想要計算的公式
+
+![顯示畫面](/docs/images/2-10.輸入想要計算的公式.png)
+
+2-13. 將座標和密度無因次化(在首次計算時可以將公式利用Save Equations進行儲存，接著在後續的使用上可以直接將公式Load近來)
+
+![顯示畫面](/docs/images/2-11.將座標和密度無因次化(在首次計算時可以將公式利用Save Equations進行儲存，接著在後續的使用上可以直接將公式Load近來).png)
