@@ -28,7 +28,7 @@
 - 自動建立網格
 - 手動建立網格
 
-參考網址 (圓柱均勻網格建置)：https://www.youtube.com/watch?v=0tmMeSQTqRs
+  參考網址 (圓柱均勻網格建置)：https://www.youtube.com/watch?v=0tmMeSQTqRs
 
 - 網格數及品質查看
   
