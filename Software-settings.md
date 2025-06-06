@@ -51,8 +51,54 @@
 
   更改其中Cs值可以控制亞網格模型模擬到的網資料 (通常Cs=0.1~0.3)
   
->目前我們是用動態，但ANSYS版本無法直接輸出Cs值，靜態比較保險(需與老師討論)
+> 目前我們是用動態，但ANSYS版本無法直接輸出Cs值，靜態比較保險(需與老師討論)
 
 ![靜態Cs](/docs/images/Viscous-Model-Cs.jpg)
+
+### 邊界條件設定 (Boundary Conditions)
+
+> 跟老師好好討論再設定 (超重要)
+
+### 演算法與差分設定 (Solution Methods)
+
+- PISO
+- Gradient：Least Square Cell Based
+- Pressure：PRESTO!
+- Momentum、Volume Fraction、Energy：QUICK
+- Transient Order Implicit
+
+> Volume Fraction、Energy可以跟老師討論看看
+
+### 收斂條件設定 (Monitors→Residual Monitors)
+
+- continuity：10^-4
+- x、y、z-velocity：10^-5
+- energy：10^-6
+- vf-phase-2：10^-3
+
+> 這可能需要跟老師討論，跟精度有極大關係 (超重要)
+
+### 模擬資料 (Run Calculation)
+
+- Time Step Size：0.002 (依據庫朗數)
+- Number of Time Step：8000 (依據總體模擬時長)
+- Data Sampling for Time Statistics (輸出額外資料要打勾)
+- Max Iterations/Time Step：10000 (最大迭代次數)
+
+> 先跟老師商量好再設定 (超重要)
+
+### 輸出檔設定 (Calculation Activities)
+
+- 圖檔輸出 Autosave Every (Time Step) :100 (乘上Time Step可知道每幾秒輸出一次，通常0.1 or 0.2s)
+- 文字檔輸出 Automatic Export：Ceate→Solution Data Export
+  File Type：ASCII
+  Location：Cell center
+  Delimiter：Comma
+  Frequency (Time Step)：50 (通常乘上Time Step為0.1s)
+  Quantities：
+  
+
+
+
 
 
