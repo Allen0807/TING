@@ -194,7 +194,7 @@
 
 4-7. 右鍵點選Edge Color可選擇邊界線條的顏色
 
-![顯示畫面](/docs/images/4-5.右鍵點選Edge Color可選擇邊界線條的顏色.png)
+![顯示畫面](/docs/images/4-5.png)
 
 4-8. 同樣可調整面的透明度
 
