@@ -126,7 +126,12 @@
 
 > 跟分析有關，跟老師確定一下是否增減
 
+![文字檔設定](/docs/images/文字檔.jpg)
+
 ### 指定重流體區域 (Solution Initialization)
 - Initialize
 - Mark→Region→設定重流體存在座標→Mark
 - Patch
+
+![mark](/docs/images/mark.jpg)
+![mark](/docs/images/patch.jpg)
