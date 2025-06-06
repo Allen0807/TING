@@ -91,10 +91,15 @@
 
 - 圖檔輸出 Autosave Every (Time Step) :100 (乘上Time Step可知道每幾秒輸出一次，通常0.1 or 0.2s)
 - 文字檔輸出 Automatic Export：Ceate→Solution Data Export
+
   File Type：ASCII
+  
   Location：Cell center
+  
   Delimiter：Comma
+  
   Frequency (Time Step)：50 (通常乘上Time Step為0.1s)
+  
   Quantities：
   
 
