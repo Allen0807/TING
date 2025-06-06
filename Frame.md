@@ -41,7 +41,7 @@
 ![顯示畫面](/docs/images/13.將Translucency打開可以調整牆的透明度.png)
 - 可在Zone Style中的Surface Translucency調整牆面透明程度
 
-![顯示畫面](/docs/images/14.可在Zone Style中的Surface Translucency調整牆面透明程度.png)
+![顯示畫面](/docs/images/14.可在Zone-Style中的Surface-Translucency調整牆面透明程度.png)
 - 設定完成後可以將Frame儲存起來，後續可以使用Load frame style匯入就不需要每次都要設定(但是!!第10步驟中設定的畫布尺寸還需要自己手動調整)
 
 ![顯示畫面](/docs/images/15.設定完成後可以將Frame儲存起來後續可以使用Load frame style匯入就不需要每次都要設定(第10步驟中設定的畫面尺寸還需要自己手動調整).png)
