@@ -1,4 +1,4 @@
-# ANSYS Fluent 17.2
+![image](https://github.com/user-attachments/assets/39538086-9fd0-4be3-a28d-a03a6a0cb00a)# ANSYS Fluent 17.2
 ---
 ## 模型幾何繪製
 ---
@@ -123,9 +123,10 @@
 | 亞網格動力黏滯係數 | sgs-dynamic-visc-const |
 | 網格體積 | cell-volume |
 | 剪應變率 | strain-rate-mag |
-  
 
+> 跟分析有關，跟老師確定一下是否增減
 
-
-
-
+### 指定重流體區域 (Solution Initialization)
+- Initialize
+- Mark→Region→設定重流體存在座標→Mark
+- Patch
