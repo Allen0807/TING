@@ -19,6 +19,7 @@
   Rectangular：包含橫向及縱向陣列
 
 - 聯集面功能 (Share Topology)
+
   將所有的Solid集合成一個Part，接著Generate成一個Share Topology，讓網格再同一面是一樣大的 (資料的傳遞較不易失真)
 
 
