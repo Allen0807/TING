@@ -51,7 +51,7 @@
   
   Mesh→Statistics→Mesh Metri→Element Quality
 
-  >當數值愈接近1時，代表網格形狀較為均勻。
+  > 當數值愈接近1時，代表網格形狀較為均勻。
 
 - 將各面命名
 
@@ -78,7 +78,7 @@
 
   更改其中Cs值可以控制亞網格模型模擬到的網資料 (通常Cs=0.1~0.3)
   
- > 目前我們是用動態，但ANSYS版本無法直接輸出Cs值，靜態比較保險(需與老師討論)
+  > 目前我們是用動態，但ANSYS版本無法直接輸出Cs值，靜態比較保險(需與老師討論)
 
 ![靜態Cs](/docs/images/Viscous-Model-Cs.jpg)
 
@@ -94,7 +94,7 @@
 - Momentum、Volume Fraction、Energy：QUICK
 - Transient Order Implicit
 
-> Volume Fraction、Energy可以跟老師討論看看
+  > Volume Fraction、Energy可以跟老師討論看看
 
 ### 收斂條件設定 (Monitors→Residual Monitors)
 
@@ -103,7 +103,7 @@
 - energy：10^-6
 - vf-phase-2：10^-3
 
-> 這可能需要跟老師討論，跟精度有極大關係 (超重要)
+  > 這可能需要跟老師討論，跟精度有極大關係 (超重要)
 
 ### 模擬資料 (Run Calculation)
 
@@ -112,7 +112,7 @@
 - Data Sampling for Time Statistics (輸出額外資料要打勾)
 - Max Iterations/Time Step：10000 (最大迭代次數)
 
-> 先跟老師商量好再設定 (超重要)
+  > 先跟老師商量好再設定 (超重要)
 
 ### 輸出檔設定 (Calculation Activities)
 
