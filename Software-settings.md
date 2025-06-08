@@ -11,6 +11,7 @@
   
   Slice Material：將增建之模型截成數塊
 
+
 - 陣列功能 (Create→Pattem)
 - Pattem Type
 
