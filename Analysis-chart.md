@@ -4,6 +4,36 @@
 ---
 - 剪裁與輸出
 
+## Grapher
+- 輸入資料
+
+  將資料複製到Worksheet Manager表格中
+
+- 繪製曲線
+
+  Home→Basic→Line Plot
+
+- Plot
+
+  Data：選取對應x、y軸資料
+
+  Add to Graph：複製一條線 (x軸不變、y軸下一行)
+
+- Symbol
+
+  Frequency：幾筆資料呈現一個符號
+
+  Symbol：選取符號樣式
+
+  Fill：符號內部樣式設定
+
+  Line：符號外框樣式設定
+
+- Line：設定線段樣式
+
+> 通常Symbol跟Line會擇一，不然會太亂。
+  
+
 ## Matlab
 ---
 - 計算Ansys輸出文字檔
@@ -22,8 +52,6 @@
 | IMAGE 轉 GIF| IMAGE TO  GIF.mlx | .gif |
 | 以色皆抓取頭端資料 | RGB | - |
 | 以色皆抓取頭端資料(模擬上俯視 ISO = 997.5) | IMAGE TO  GIF.mlx | - |
-
-- GIG、AVI、JPG轉換
 
 ## Tecplot
 ---
