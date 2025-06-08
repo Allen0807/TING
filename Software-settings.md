@@ -18,6 +18,7 @@
   
   Rectangular：包含橫向及縱向陣列
 
+
 - 聯集面功能 (Share Topology)
 
   將所有的Solid集合成一個Part，接著Generate成一個Share Topology，讓網格再同一面是一樣大的 (資料的傳遞較不易失真)
@@ -42,6 +43,7 @@
   Max Face Size：設定最大網格邊長
 
   Max Tet Size：設定最大網格邊長
+
 
 - 手動建立網格
 
@@ -70,6 +72,7 @@
 
 ![動態Cs](/docs/images/Mulyiphase-Model.jpg)
 
+
 - 動態Cs參數
 
 ![動態Cs](/docs/images/Viscous-Model.jpg)
@@ -82,6 +85,7 @@
 
 ![靜態Cs](/docs/images/Viscous-Model-Cs.jpg)
 
+
 ### 邊界條件設定 (Boundary Conditions)
 
 > 跟老師好好討論再設定 (超重要)
@@ -89,9 +93,13 @@
 ### 演算法與差分設定 (Solution Methods)
 
 - PISO
+
 - Gradient：Least Square Cell Based
+
 - Pressure：PRESTO!
+
 - Momentum、Volume Fraction、Energy：QUICK
+
 - Transient Order Implicit
 
 > Volume Fraction、Energy可以跟老師討論看看
@@ -108,9 +116,13 @@
 ### 模擬資料 (Run Calculation)
 
 - Time Step Size：0.002 (依據庫朗數)
+
 - Number of Time Step：8000 (依據總體模擬時長)
+
 - Data Sampling for Time Statistics (輸出額外資料要打勾)
+
 - Max Iterations/Time Step：10000 (最大迭代次數)
+
 
 > 先跟老師商量好再設定 (超重要)
 
