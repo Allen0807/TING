@@ -32,6 +32,16 @@
 - Line：設定線段樣式
 
 > 通常Symbol跟Line會擇一，不然會太亂。
+
+- Error Bars
+
+  Drection：Vertical
+
+  Type：Read of data variable
+
+  variable：設定差值
+
+  Vertical direction：Positive (線上方) or Negative (線下方)
   
 
 ## Matlab
