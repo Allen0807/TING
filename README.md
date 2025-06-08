@@ -14,7 +14,7 @@ Three-dimensional flow characteristics of suspended sediment transport through a
 
 異重流於陣列排樁間的動力行為與紊流傳輸特性探究：從單一叢簇至週期性叢簇陣列-葉俊廷
 
-Dynamic Behavior and Turbulent Transport Properties of Gravity Currents through Cluster-type Arrays:from Isolated to Periodic Configurations
+Dynamic Behavior and Turbulent Transport Properties of Gravity Currents through Cluster-type Arrays：from Isolated to Periodic Configurations
 
 ---
 
