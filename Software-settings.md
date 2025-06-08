@@ -26,6 +26,23 @@
 ## 模型網格設置
 ---
 - 自動建立網格
+
+  Size Function：Curvature
+
+  Relevancce Center：Fine
+
+  Initial Size Seed：Active Assembly
+
+  Smooting：High
+
+  Transition：Fast
+
+  Span Angle Center：Fine
+
+  Max Face Size：設定最大網格邊長
+
+  Max Tet Size：設定最大網格邊長
+
 - 手動建立網格
 
   參考網址 (圓柱均勻網格建置)：https://www.youtube.com/watch?v=0tmMeSQTqRs
