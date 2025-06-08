@@ -55,6 +55,12 @@
 | 質量通量及動量通量 | Momentum and Mass flux.mlx | .dat |
 | HovmOller     | Hovmoller.mlx | .dat |
 | 動能及位能     | EUV.mlx | .dat |
+| Z方向動能     | Energy in Zdiretion.mlx | .dat |
+| 背景位能演化     | Diffusion.m | .dat |
+| 重流體分區     | Diffusion2.m | .dat |
+| 背景位能暫態     | DiffusionXZ.m | .dat |
+| 動態背景位能     | dynamic-mixing-rate.mlx | .dat |
+| 時均UV諾應力     | Reynolds_stress.mlx | .dat |
 | 時均TKE解析 | TKE.mlx | .dat |
 | 空間平均TKE解析 (俯視圖) | TKEtop.mlx | .dat |
 | 空間平均TKE解析 (側視圖) | TKEside.mlx | .dat |
