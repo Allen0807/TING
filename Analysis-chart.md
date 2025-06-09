@@ -42,6 +42,36 @@
   variable：設定差值
 
   Vertical direction：Positive (線上方) or Negative (線下方)
+
+  - 調整軸座標 (X Axis、YAxis)
+- Axis
+
+  Limits:調整最大最小值
+
+  Title→Title Properties→Text：輸入軸座標名稱
+
+- Ticks
+
+  Maijor Ticks：調整大尺度座標設置 (有數字的)
+
+  Miner Ticks：調整小尺度座標設置 (大尺度間沒數字的)
+
+- Labels
+
+  Label Settings→Label Format
+
+  Font：調整字型、大小
+
+  Format：調整小數點
+
+- 圖例設置 (Legend)
+- 新增圖例：圖面上典右鍵→Add Legend
+- Title→Title Properties→Text：輸入軸圖例名稱
+- Entries
+
+  All Entries：選擇域呈現出資訊
+
+  Individual Entries：重新編譯資料名稱、順序
   
 
 ## Matlab
