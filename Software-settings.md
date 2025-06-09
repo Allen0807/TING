@@ -64,7 +64,7 @@
 
 - 更新資料：Updata
 
-  >看到下方通知欄出現
+  >看到下方通知欄出現The mesh translation to Fluent was successful即為成功。
 
 ## 模型運算設定
 ---
