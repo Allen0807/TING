@@ -48,7 +48,7 @@
 ---
 - 計算Ansys輸出文字檔
 > 確認各資料欄位對應正確
-
+### 俊廷
 | 分析項目         | 檔名       | 輸出副檔名 |
 |--------------|---------------|------|
 | 頭端速度分析  | Current_head.mlx | .dat |
@@ -68,6 +68,18 @@
 | IMAGE 轉 GIF| IMAGE TO  GIF.mlx | .gif |
 | 以色皆抓取頭端資料 | RGB | - |
 | 以色皆抓取頭端資料(模擬上俯視 ISO = 997.5) | IMAGE TO  GIF.mlx | - |
+
+### 敬原
+
+| 指標 | 程式碼 | 輸出格式 |
+|------|----------|----------|
+| 密度、速度、壓力場的切面資料 | `Density_Presure_Velocity_Slice.m` | .dat  |
+|  密度資料(最大範圍)| `Flow_extent.m`| .dat |
+|  密度高程資料| `Elevation_max.m`| .dat |
+|  質量通量, 動量通量| `Flux.m`| .jpg |
+|  密度等值線之堆疊| `Lobe_and_Cleft_Velocity.m`| .dat |
+|  主支流重流體體積(質量)| `mass_consevation.m`| .dat |
+|  紊流動能解析度| `TKE_vaildation.m`| .dat |
 
 ## Tecplot
 ---
