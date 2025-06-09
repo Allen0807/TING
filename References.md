@@ -60,6 +60,7 @@ __有點相關__
 ## 文獻查找策略
 可以先透過相關的關鍵字在 Google scholar 查找文獻，若是文獻有付費牆，可以透過 Sci-hub 等方式下載
 https://www.sci-hub.pub/
+
 在文獻或是研究方法的部分，也可以上碩博士論文網上查相關主題的論文
 https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=d
 
