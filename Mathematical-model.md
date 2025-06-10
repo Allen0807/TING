@@ -1,5 +1,9 @@
 # 數學模型
 ---
+- 基礎數學複習
+
+  參考網址：https://www.youtube.com/playlist?list=PL5r3JzzmClOZCxw5NAWb8nFgTw0FO8C6x
+
 - 三維統御方程(Navier-Stokes equations)
 
 >中流會學到
@@ -14,7 +18,7 @@
 
 - 大渦流紊流模擬(Large Eddy Simulation)
 
-  參考資料
+  參考網址
   
   LES：https://www.youtube.com/watch?v=r5vP45_6fB4&list=PLnJ8lIgfDbkoPrNWatlYdROiPrRU4XeUA
   
