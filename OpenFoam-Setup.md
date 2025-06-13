@@ -22,8 +22,7 @@
 | `U`（速度場）            | `internalField` | 設定流場的初始速度值                                        |
 |                          | `boundaryField` | 設定各邊界（如 inlet, outlet, wall）的速度條件（固定值、零梯度等） |
 | `p`（壓力場）            | 同上            | 設定壓力場的初始值與邊界條件                                |
-| `T`（溫度場）＊可選      | 同上            | 設定溫度場的初始值與邊界條件，熱傳模擬才會出現              |
-| 其他如 `alpha.water` 等  | 同上            | 多相流模擬中的相分率場設定                                  |
+| 其他如 `alpha.sldge` 等  | 同上            | 多相流模擬中的相分率場設定                                  |
 
 ---
 
@@ -32,23 +31,23 @@
 | 檔案名稱           | 常更改項目         | 用意說明                                                     |
 |--------------------|--------------------|--------------------------------------------------------------|
 | `transportProperties` | `nu` 或 `mu`, `rho` | 指定流體的黏滯係數、密度等物性參數                           |
-| `thermophysicalProperties` | `Cp`, `k`, `Pr` 等   | 設定熱傳模擬中使用的熱性質，如比熱、熱導率                   |
-| `turbulenceProperties` | `simulationType`     | 指定是否為 RANS 模擬與使用哪種湍流模型                       |
-| `RASProperties` / `LESProperties` | `model`          | 指定實際使用的湍流模型，如 `kEpsilon`, `kOmegaSST` 等        |
+| `LESProperties` | `model`          | 指定實際使用的湍流模型        |
 | `polyMesh/blockMeshDict` | 幾何定義區塊         | 設定整體計算域幾何與分格細節                                 |
 
 ---
 
-### 📁 system/ 目錄：數值控制與網格生成參數
+### 📁 system/ 目錄：數值控制與幾何網格設定
 
 | 檔案名稱         | 常更改項目           | 用意說明                                                   |
 |------------------|----------------------|------------------------------------------------------------|
 | `controlDict`    | `startTime`, `endTime`, `deltaT` | 控制模擬起始時間、結束時間與時間步長                   |
 |                  | `writeInterval`       | 設定輸出結果的頻率                                        |
 |                  | `application`         | 指定使用的求解器                                          |
+| `blockMeshDict`  | `vertices`, `blocks`, `edges`, `boundary` | 幾何與結構網格的設定                             |
 | `fvSchemes`      | `divSchemes`, `gradSchemes` 等 | 數值離散方法的選擇                                       |
 | `fvSolution`     | `solvers`             | 各物理量的線性求解器設定                                  |
 |                  | `SIMPLE`, `PISO`, `PIMPLE` 區塊 | 控制壓力-速度耦合演算法設定                              |
 | `decomposeParDict` | `numberOfSubdomains`, `method` | 平行計算設定，如子域數量與分割方式                      |
+
 
 
