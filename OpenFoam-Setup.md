@@ -49,5 +49,35 @@
 |                  | `SIMPLE`, `PISO`, `PIMPLE` 區塊 | 控制壓力-速度耦合演算法設定                              |
 | `decomposeParDict` | `numberOfSubdomains`, `method` | 平行計算設定，如子域數量與分割方式                      |
 
+## 常用邊界條件
+### 🌊 常見邊界條件設定：壓力場 (p) 與速度場 (U)
+
+| 邊界類型   | 用途 / 物理意義     | 速度 U 設定                         | 壓力 p 設定                         |
+|------------|----------------------|--------------------------------------|--------------------------------------|
+| `inlet`    | 入口邊界              | `fixedValue`（指定流速）            | `zeroGradient`（允許壓力調整）      |
+| `outlet`   | 出口邊界              | `zeroGradient`（允許速度自由出流）  | `fixedValue` 或 `totalPressure`      |
+| `wall`     | 固定壁面（無滑移）    | `noSlip`（對應 `fixedValue (0 0 0)`） | `zeroGradient`（壓力隨場調整）       |
+| `wall`     | 滑移壁面（理想滑移）  | `slip`（允許沿切向滑移）            | `zeroGradient`                       |
+| `symmetry` | 對稱面                | `symmetryPlane`                     | `symmetryPlane`                      |
+| `empty`    | 2D 模擬中非計算方向   | `empty`                             | `empty`                              |
+| `patch`    | 一般定義邊界（需自訂）| 視情況選擇，通常為 `fixedValue` 或 `zeroGradient` | 同左                                  |
+
+---
+
+### ✅ 常見邊界條件型別對應說明
+
+| 邊界條件型別      | 用途說明                                                             |
+|-------------------|----------------------------------------------------------------------|
+| `fixedValue`      | 指定一個固定值（例如入口速度、固定壓力）                             |
+| `zeroGradient`    | 對應自然導流或允許變化（例如出口壓力、壁面壓力）                     |
+| `noSlip`          | 相當於 `fixedValue (0 0 0)`，壁面上速度為 0                           |
+| `slip`            | 無剪切力的滑移壁面，速度可沿切向自由流動                            |
+| `symmetryPlane`   | 用於對稱邊界，適用於所有物理量                                       |
+| `empty`           | 適用於 2D 模擬中的非作用方向（通常是 z 方向）                        |
+| `inletOutlet`     | 可根據流向自動調整是入口還是出口（混合型），常見於自由邊界處        |
+| `pressureInletOutletVelocity` | 根據壓力條件決定速度邊界，自由入流或出流（常用於自然對流） |
+
+
+
 
 
