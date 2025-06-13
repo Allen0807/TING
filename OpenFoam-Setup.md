@@ -57,7 +57,7 @@
 | `inlet`    | 入口邊界              | `fixedValue`（指定流速）            | `zeroGradient`（允許壓力調整）      |
 | `outlet`   | 出口邊界              | `zeroGradient`（允許速度自由出流）  | `fixedValue` 或 `totalPressure`      |
 | `wall`     | 固定壁面（無滑移）    | `noSlip`（對應 `fixedValue (0 0 0)`） | `zeroGradient`（壓力隨場調整）       |
-| `wall`     | 滑移壁面（理想滑移）  | `slip`（允許沿切向滑移）            | `zeroGradient`                       |
+| `wall`     | 滑移壁面  | `slip`（允許沿切向滑移）            | `zeroGradient`                       |
 | `symmetry` | 對稱面                | `symmetryPlane`                     | `symmetryPlane`                      |
 | `empty`    | 2D 模擬中非計算方向   | `empty`                             | `empty`                              |
 | `patch`    | 一般定義邊界（需自訂）| 視情況選擇，通常為 `fixedValue` 或 `zeroGradient` | 同左                                  |
