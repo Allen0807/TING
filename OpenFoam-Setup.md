@@ -13,6 +13,8 @@
 | `foamToVTK`  | 將模擬結果轉換為 VTK 格式，方便使用 VTK 或 ParaView 分析。                |
 | `checkMesh`  | 檢查網格品質與完整性，是執行模擬前的重要步驟之一。                        |
 
+---
+
 ## 常用修改項目
 
 ### 📁 0/ 目錄：初始與邊界條件
@@ -24,8 +26,6 @@
 | `p`（壓力場）            | 同上            | 設定壓力場的初始值與邊界條件                                |
 | 其他如 `alpha.sldge` 等  | 同上            | 多相流模擬中的相分率場設定                                  |
 
----
-
 ### 📁 constant/ 目錄：物理模型與網格參數
 
 | 檔案名稱           | 常更改項目         | 用意說明                                                     |
@@ -33,8 +33,6 @@
 | `transportProperties` | `nu` 或 `mu`, `rho` | 指定流體的黏滯係數、密度等物性參數                           |
 | `LESProperties` | `model`          | 指定實際使用的湍流模型        |
 | `polyMesh/blockMeshDict` | 幾何定義區塊         | 設定整體計算域幾何與分格細節                                 |
-
----
 
 ### 📁 system/ 目錄：數值控制與幾何網格設定
 
@@ -49,6 +47,8 @@
 |                  | `SIMPLE`, `PISO`, `PIMPLE` 區塊 | 控制壓力-速度耦合演算法設定                              |
 | `decomposeParDict` | `numberOfSubdomains`, `method` | 平行計算設定，如子域數量與分割方式                      |
 
+---
+
 ## 常用邊界條件
 ###  常見邊界條件設定：壓力場 (p) 與速度場 (U)
 
@@ -61,8 +61,6 @@
 | `symmetry` | 對稱面                | `symmetryPlane`                     | `symmetryPlane`                      |
 | `empty`    | 2D 模擬中非計算方向   | `empty`                             | `empty`                              |
 | `patch`    | 一般定義邊界（需自訂）| 視情況選擇，通常為 `fixedValue` 或 `zeroGradient` | 同左                                  |
-
----
 
 ###  常見邊界條件型別對應說明
 
