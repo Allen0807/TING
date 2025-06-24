@@ -91,6 +91,16 @@
 
 > 跟老師好好討論再設定 (超重要)
 
+### 壓力參考點設定 (Setting Up Physics→Operating Conditions)
+
+- 設定壓力參考位置
+
+> 通常設定於距離釋放源最遠位置
+
+- 勾選Specified Operating Density
+
+> 1.225 kg/m3 為空氣密度
+
 ### 演算法與差分設定 (Solution Methods)
 
 - PISO
