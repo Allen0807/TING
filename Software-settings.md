@@ -101,6 +101,8 @@
 
 > 1.225 kg/m3 為空氣密度
 
+![壓力參考點](/docs/images/壓力參考點.jpg)
+
 ### 演算法與差分設定 (Solution Methods)
 
 - PISO
