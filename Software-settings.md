@@ -68,6 +68,20 @@
 
 ## 模型運算設定
 ---
+### 基礎設定 (Genral)
+
+- Solver
+
+  Type：Pressure-Basd
+
+  Velocity Formulation：Absolute
+
+  Time：Transient
+
+- Gravity：重力方向設-9.81
+
+### 流體設定 (Set Up Physics→Phases→List)
+
 ### 紊流模式設定 (Models)
 - 混合模式設定
 
