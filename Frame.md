@@ -320,6 +320,10 @@
 
 ![顯示畫面](/docs/images/7-2.png)
 
+7-2-2.將座標和密度無因次化
+
+![顯示畫面](/docs/images/7-3.png)
+
 7-3.開啟contour後在下拉選單中選取Density
 
 ![顯示畫面](/docs/images/7-3.開啟contour後在下拉選單中選取Density.png)
