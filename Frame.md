@@ -278,11 +278,11 @@
 
 ![顯示畫面](/docs/images/6-9.在Contour中的Details中便可以選擇計算的無因次渦度場.png)
 
-6-10.匯入color map
+6-10.匯入color map(路徑:I/論文圖檔/6模擬圖檔-Vorticity/Vorticity_Qcriterion.map)
 
 ![顯示畫面](/docs/images/6-10.png)
 
-6-11.選擇Vorticity的color map(路徑:I/論文圖檔/6模擬圖檔-Vorticity)
+6-11.選擇Vorticity的color map
 
 ![顯示畫面](/docs/images/6-11.png)
 
