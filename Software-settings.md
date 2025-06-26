@@ -2,7 +2,7 @@
 ---
 ## 操作流程
 
-<video controls src="/docs/images/ANSYS操作流程.mp4">
+[▶️ 操作流程影片](/docs/images/ANSYS操作流程.mp4)
 
 ---
 ## 模型幾何繪製
