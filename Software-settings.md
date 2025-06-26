@@ -2,7 +2,7 @@
 ---
 ## 操作流程
 
-![操作流程](/docs/images/ANSYS 操作流程.mp4)
+![操作流程](/docs/images/ANSYS操作流程.mp4)
 
 ---
 ## 模型幾何繪製
