@@ -60,6 +60,14 @@
 
 ![顯示畫面](/docs/images/15.png)
 
+---
+
+# 套用Frame
+
+選擇side_view.sty即可(frame 寬9.48 高0.76)
+
+![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+
 # 2.水槽中心線側視圖
 ---
 - 重複「三維側視圖(Iso Surface)」中1~7步驟
@@ -137,6 +145,26 @@
 2-19. 匯出檔案，Region必須選擇All frames才能匯出兩個frame，寬度方面可以盡量大一點提高解析度，Antialiasing用途為減少畫面的鋸齒可自行調整(2-16)，Encoding為畫面的編碼的方法選擇標準即可，最後品質一定是開到最高
 
 ![顯示畫面](/docs/images/2-21-1.匯出檔案.png)
+
+---
+
+# 套用Frame
+
+2-1-1. 重複2-1至2-3的步驟
+
+![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+
+2-1-2. 利用load equations的功能將公式匯入
+
+![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+
+2-1-2. load frame可匯入已製作好的frame
+
+![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+
+2-1-3. 更改畫布大小
 
 # 3.三維圖及俯視圖(Iso Surface)
 
