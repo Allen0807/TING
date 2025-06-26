@@ -206,7 +206,7 @@
 ---
 5-1.點選Analyze中的Caculate Variables功能
 
-![視角設定](/docs/images/5-1.點選Analyze中的Caculate Variables功能.png)
+![視角設定](/docs/images/5-1.png)
 
 5-2.利用select計算不同的變數
 
@@ -238,4 +238,4 @@
 
 5-9.Zone Style中可選擇想要顯示的牆面 
 
-![顯示畫面](/docs/images/5-9.Zone Style中可選擇想要顯示的牆面 .png)
+![顯示畫面](/docs/images/5-9.png)
