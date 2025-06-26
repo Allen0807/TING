@@ -1,5 +1,8 @@
 # ANSYS Fluent 17.2
 ---
+## 操作流程
+![操作流程](/docs/images/ANSYS 操作流程.mp4)
+---
 ## 模型幾何繪製
 ---
 - 擠出功能 (Extude)
