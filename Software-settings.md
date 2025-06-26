@@ -1,10 +1,14 @@
 # ANSYS Fluent 17.2
 ---
+
 ## 操作流程
 
-[▶️ 操作流程影片](/docs/images/ANSYS操作流程.mp4)
+<video controls src="/docs/images/ANSYS操作流程.mp4">
+  您的瀏覽器不支援 video 標籤。
+</video>
 
 ---
+
 ## 模型幾何繪製
 ---
 - 擠出功能 (Extude)
