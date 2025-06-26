@@ -66,7 +66,7 @@
 
 選擇side_view.sty即可(frame 寬9.48 高0.76)
 
-![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+![顯示畫面](/docs/new_folder/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
 
 # 2.水槽中心線側視圖
 ---
@@ -152,19 +152,19 @@
 
 2-1-1. 重複2-1至2-3的步驟
 
-![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
-
 2-1-2. 利用load equations的功能將公式匯入
 
-![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
-![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+![顯示畫面](/docs/new_folder/2-1-2.png)
+![顯示畫面](/docs/new_folder/2-6.公式位置.png)
 
-2-1-2. load frame可匯入已製作好的frame
+2-1-3. load frame可匯入已製作好的frame
 
-![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
-![顯示畫面](/docs/images/1-1-1.選擇side_view即可(寬9.48、高0.76).png)
+![顯示畫面](/docs/new_folder/2-1-3.png)
+![顯示畫面](/docs/new_folder/2-8.Frame位置.png)
 
-2-1-3. 更改畫布大小
+2-1-4. 更改畫布大小
+
+![顯示畫面](/docs/new_folder/2-8.更改畫布大小.png)
 
 # 3.三維圖及俯視圖(Iso Surface)
 
