@@ -244,7 +244,7 @@
 
 重複4-1至4-4的步驟後直接把frame load進來即可(寬9高3)
 
-![顯示畫面](/docs/new_folder/(寬9高3).png)
+![顯示畫面](/docs/new_folder/(frame寬9高3).png)
 
 # 5.Q Criterion
 ---
