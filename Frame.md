@@ -60,7 +60,7 @@
 
 ![顯示畫面](/docs/images/15.png)
 
-# 水槽中心線側視圖
+# 2.水槽中心線側視圖
 ---
 - 重複「三維側視圖(Iso Surface)」中1~7步驟
 
@@ -201,3 +201,41 @@
 ![顯示畫面](/docs/images/4-6.同樣可調整面的透明度.png)
 
 4-9. 儲存frame以利後續使用，最後進行匯出的動作
+
+# 5.Q Criterion
+---
+5-1.點選Analyze中的Caculate Variables功能
+
+![視角設定](/docs/images/5-1.點選Analyze中的Caculate Variables功能.png)
+
+5-2.利用select計算不同的變數
+
+![顯示畫面](/docs/images/5-2.利用select計算不同的變數.png)
+
+5-3.選擇Q_Criterion
+
+![顯示畫面](/docs/images/5-3.選擇Q_Criterion.png)
+
+5-4.將計算位置設定在網格中心後便可以計算
+
+![顯示畫面](/docs/images/5-4.將計算位置設定在網格中心後便可以計算.png)
+
+5-5.在contour的details中進行選擇
+
+![顯示畫面](/docs/images/5-5.在contour的details中進行選擇.png)
+
+5-6.選擇想呈現的contour_如Q_Criterion
+
+![顯示畫面](/docs/images/5-6.選擇想呈現的contour_如Q_Criterion.png)
+
+5-7.可選擇欲使用的contour顏色
+
+![顯示畫面](/docs/images/5-7.可選擇欲使用的contour顏色.png)
+
+5-8.開啟IsoSurface後可選擇顯示幾個數值並在Value中定義
+
+![顯示畫面](/docs/images/5-8.開啟IsoSurface後可選擇顯示幾個數值並在Value中定義.png)
+
+5-9.Zone Style中可選擇想要顯示的牆面 
+
+![顯示畫面](/docs/images/5-9.Zone Style中可選擇想要顯示的牆面 .png)
