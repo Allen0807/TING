@@ -239,3 +239,119 @@
 5-9.Zone Style中可選擇想要顯示的牆面 
 
 ![顯示畫面](/docs/images/5-9.png)
+
+# 6.Vorticity
+---
+6-1.點選Analyze中的Caculate Variables功能
+
+![視角設定](/docs/images/6-1.png)
+
+6-2.利用select計算不同的變數
+
+![顯示畫面](/docs/images/6-2.利用select計算不同的變數.png)
+
+6-3.選擇Z Vorticity後按OK
+
+![顯示畫面](/docs/images/6-3.png)
+
+6-4.將計算位置設置在網格中心處
+
+![顯示畫面](/docs/images/6-4.將計算位置設置在網格中心處.png)
+
+6-5.利用Slice功能將Z=0的平面進行切頁
+
+![顯示畫面](/docs/images/6-5.利用Slice功能將Z=0的平面進行切頁.png)
+
+6-6.利用Data中Extract的Extract Slices Over Time將每個時間步的檔案都進行切頁的步驟
+
+![顯示畫面](/docs/images/6-6.png)
+
+6-7.進入Data中Alter的Specify Equations功能
+
+![顯示畫面](/docs/images/6-7.png)
+
+6-8.以方柱邊長為特徵長度並搭配特徵速度將渦度進行無因次化
+
+![顯示畫面](/docs/images/6-8.以方柱邊長為特徵長度並搭配特徵速度將渦度進行無因次化.png)
+
+6-9.在Contour中的Details中便可以選擇計算的無因次渦度場
+
+![顯示畫面](/docs/images/6-9.在Contour中的Details中便可以選擇計算的無因次渦度場.png)
+
+6-10.匯入color map
+
+![顯示畫面](/docs/images/6-10.png)
+
+6-11.選擇Vorticity的color map(路徑:I/論文圖檔/6模擬圖檔-Vorticity)
+
+![顯示畫面](/docs/images/6-11.png)
+
+6-12.利用set level設定color bar
+
+![顯示畫面](/docs/images/6-12.png)
+
+6-13.設定最大及最小值和間距
+
+![顯示畫面](/docs/images/6-13.設定最大及最小值和間距.png)
+
+6-14.將contour、shade、edge打開
+
+![顯示畫面](/docs/images/6-14.將contour、shade、edge打開.png)
+
+6-15.在contour欄位中僅保留障礙物和切頁，其中關閉障礙物的contour
+
+![顯示畫面](/docs/images/6-15.在contour欄位中僅保留障礙物和切頁，其中關閉障礙物的contour.png)
+
+6-16.在shade中利用右鍵點選可更換顏色
+
+![顯示畫面](/docs/images/6-16.在shade中利用右鍵點選可更換顏色.png)
+
+6-17.在Edge欄位中僅保留障礙物
+
+![顯示畫面](/docs/images/6-17.在Edge欄位中僅保留障礙物.png)
+
+# 7.向量圖
+---
+7-1.首先利用切頁功能將切頁位置定為流向中心處
+
+![視角設定](/docs/images/7-1.首先利用切頁功能將切頁位置定為流向中心處.png)
+
+7-2.利用Data中Extract的Extract Slices Over Time將每個時間步的檔案都進行切頁的步驟
+
+![顯示畫面](/docs/images/7-2.png)
+
+7-3.開啟contour後在下拉選單中選取Density
+
+![顯示畫面](/docs/images/7-3.開啟contour後在下拉選單中選取Density.png)
+
+7-4.開啟ZoneStyle後將障礙物的contour關閉，並將Density的contour type選擇lines的方式呈現
+
+![顯示畫面](/docs/images/7-4.png)
+
+7-5.可在line color中選擇線的顏色，並在line thinkness改變線的粗細
+
+![顯示畫面](/docs/images/7-5.png)
+
+7-6.將色彩選擇為multi1
+
+![顯示畫面](/docs/images/7-6.將色彩選擇為multi1.png)
+
+7-7.可在shade中關閉切頁使背景為白色
+
+![顯示畫面](/docs/images/7-7.可在shade中關閉切頁使背景為白色.png)
+
+7-8.線條數量可由contour中的set level中設定間距便可改變數量
+
+![顯示畫面](/docs/images/7-8.png)
+
+7-9.將圖像檢視座標設定為2D
+
+![顯示畫面](/docs/images/7-9.將圖像檢視座標設定為2D.png)
+
+7-10.將向量打開
+
+![顯示畫面](/docs/images/7-10.將向量打開.png)
+
+7-11.藉由point中的index skip功能可以改變向量箭頭數量
+
+![顯示畫面](/docs/images/7-11.png)
