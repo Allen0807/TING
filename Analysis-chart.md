@@ -113,6 +113,27 @@
 |  主支流重流體體積(質量)| `mass_consevation.m`| .dat |
 |  紊流動能解析度| `TKE_vaildation.m`| .dat |
 
+---
+
+| No. | Title                        | Data Type           | Frame                           | Color Maps                      | Equation                        | Method Description |
+|-----|-----------------------------|---------------------|----------------------------------|----------------------------------|----------------------------------|--------------------|
+| 1   | Density slice 8x5           | fluent影像檔        | density slice8x5.sty            | no                               | Density image dimensionless.eqn | 使用 Tecplot 匯入影像檔後，擷取 z 切頁於 0.00625m 並轉為 2D 座標，接著讀取 eqn 檔進行無因次化參數轉換 |
+| 2   | Flow extent                 | fluent文字檔        | -                                | -                                | -                                | 使用 Matlab 程式 Flow_extent.m，選定資料可直接輸出 ymax、xmax，圖面透過 Grapher 繪製 |
+| 3   | Hovmoller slice             | dat                 | Hovmoller_7x7.sty               | no                               | no                               | 直接使用 Tecplot 匯入 dat 檔並套用指定樣式檔 Frame 呈現 |
+| 4   | Lobe & Cleft                | dat                 | Lobe&Cleft size8x3.sty          | no                               | no                               | 同上 |
+| 5   | Lobe & Cleft + vector       | dat                 | Lobe&Cleft+Vector.sty           | Lobe-and-Cleft+vector.map        | no                               | 同上 |
+| 6   | Flux                        | fluent文字檔        | -                                | -                                | -                                | 使用 Matlab 程式 Flux.m，選定切頁後可直接輸出圖檔 |
+| 7   | Elevation                   | dat                 | Elevation.sty                   | -                                | no                               | - |
+| 8   | XZ/YZ slice (Beta=0)       | fluent影像檔        | Yslice_structure_size8x2.6.sty  | no                               | Density image dimensionless.eqn | 使用 Tecplot 擷取 Y=0.55m / X=0.45m 的切面資料 (Data -> Extract -> Extract slice over time)，並讀取 eqn 檔進行轉換 |
+| 9   | Z-vorticity                 | fluent影像檔        | Z vorticity.sty                 | Z-vorcity.map                    | Density image dimensionless.eqn | 需於 Tecplot 中額外使用 Analyze -> Calculate variables 功能計算變數後繪製 |
+| 10  | Q-criterion                 | fluent影像檔        | Q criterion.sty                 | Q-criterion.map                  | no                               | 同上 |
+
+#### 補充說明
+
+- 所有出圖結果皆儲存於 **2TB 硬碟 G:\原\Analysis** 中，依據交匯角度劃分為三個資料夾，每個資料夾皆含對應分析結果。
+- 模擬原始資料 (45°與70°案例) 儲存於 **8TB 硬碟**，區分為影像檔與文字檔；由於空間限制，**β = 1.0 案例的檔案**也另存放於 2TB 硬碟中。
+- 所使用之所有 Matlab 程式碼皆集中於：**G:\原\matlab code** 資料夾。
+
 ## Tecplot
 ---
 ### 匯入圖檔
