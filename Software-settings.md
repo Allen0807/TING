@@ -3,8 +3,12 @@
 
 ## 操作流程
 
-<video controls width="600" height="340">
-  <source src="/docs/images/ANSYS操作流程.mp4" type="video/mp4">
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/t7qhUG6kSGs"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 ---
 
