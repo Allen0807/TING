@@ -3,9 +3,8 @@
 
 ## 操作流程
 
-<video controls src="/docs/images/ANSYS操作流程.mp4">
-  您的瀏覽器不支援 video 標籤。
-</video>
+<video controls width="600" height="340">
+  <source src="/docs/images/ANSYS操作流程.mp4" type="video/mp4">
 
 ---
 
