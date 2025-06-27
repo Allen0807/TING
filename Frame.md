@@ -284,6 +284,25 @@
 
 ![顯示畫面](/docs/images/5-9.png)
 
+---
+
+# 套用Frame
+
+重複5-1至5-4的動作
+
+5-1-1.匯入color maps
+
+![顯示畫面](/docs/new_folder/5-5.匯入color maps.png)
+![顯示畫面](/docs/new_folder/螢幕擷取畫面 2025-06-26 181450.png)
+
+5-1-2.選擇Q criterion
+
+![顯示畫面](/docs/new_folder/5-6.選擇Q criterion.png)
+
+5-1-3.將frame load進來即可
+
+![顯示畫面](/docs/new_folder/5-7.將frame load進來即可.png)
+
 # 6.Vorticity
 ---
 6-1.點選Analyze中的Caculate Variables功能
